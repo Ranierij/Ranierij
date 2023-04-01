@@ -23,13 +23,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: ranierijesuino@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="35" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/ranieri-jesuino-305777189/">
-      <img width="25" src="linkedin.svg">
+      <img width="30" src="linkedin.svg">
     </a>
    
   
 </div>
   
-![Snake animation](https://github.com/Ranierij/Ranierij/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
